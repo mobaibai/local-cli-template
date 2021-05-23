@@ -1,0 +1,13 @@
+{
+  "name": "local-cli-template",
+  "version": "0.0.1",
+  "description": "local cli template",
+  "scripts": {
+    "new": "plop"
+  },
+  "author": "MoBai",
+  "license": "ISC",
+  "dependencies": {
+    "plop": "^2.7.4"
+  }
+}
